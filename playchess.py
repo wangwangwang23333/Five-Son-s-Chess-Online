@@ -52,7 +52,8 @@ waitingForConnect=False
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 # 主动去连接局域网内IP为192.168.27.238，端口为6688的进程
 #client.connect(('localhost', 6688))
-client.connect(('8.131.225.65', 6688))
+#此处填写服务器的公网ip
+client.connect(('服务器公网ip', 6688))
 
 def errorMessage():
     data="Error"

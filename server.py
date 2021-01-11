@@ -3,7 +3,7 @@ import socket  # 导入 socket 模块
 from threading import Thread
 import threading
  
-ADDRESS = ('172.22.211.23', 6688)  # 绑定地址
+ADDRESS = ('此处填写服务器私网ip', 6688)  # 绑定地址
 #ADDRESS = ('localhost', 6688)
 g_socket_server = None  # 负责监听的socket
 g_conn_pool = []  # 连接池
