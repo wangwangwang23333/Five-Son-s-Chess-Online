@@ -44,12 +44,12 @@
 
 开始游戏界面：
 
-![1](pic\1.png)
+![开始游戏界面](https://github.com/wangwangwang23333/Five-Son-s-Chess-Online/raw/master/pic/1.png)
 
 等待其他玩家加入界面：
 
-![2](pic\2.jpg)
+![等待其他玩家加入游戏界面](https://github.com/wangwangwang23333/Five-Son-s-Chess-Online/raw/master/pic/2.jpg)
 
 游戏界面：
 
-![2](pic\3.jpg)
+![游戏界面](https://github.com/wangwangwang23333/Five-Son-s-Chess-Online/raw/master/pic/3.jpg)
