@@ -44,12 +44,12 @@
 
 开始游戏界面：
 
-[![s8ai5V.md.png](https://s3.ax1x.com/2021/01/11/s8ai5V.md.png)](https://imgchr.com/i/s8ai5V)
+![1](pic\1.png)
 
 等待其他玩家加入界面：
 
-[![s8aA8U.md.jpg](https://s3.ax1x.com/2021/01/11/s8aA8U.md.jpg)](https://imgchr.com/i/s8aA8U)
+![2](pic\2.jpg)
 
 游戏界面：
 
-[![s8aeKJ.md.jpg](https://s3.ax1x.com/2021/01/11/s8aeKJ.md.jpg)](https://imgchr.com/i/s8aeKJ)
+![2](pic\3.jpg)
